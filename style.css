@@ -1,0 +1,19 @@
+
+.warwick {
+  /*position: absolute;*/
+  /*clip: rect(0px 190px, 200px, 0px);*/
+}
+.veigar {
+  /*position: absolute;*/
+  /*clip: rect(0px 340px, 200px, 200px);*/
+}
+.zyra {
+  /*position: absolute;*/
+  /*clip: rect(0px 450px, 200px, 350px);*/
+}
+.background{
+  display: block;
+  background-image: url('sprite-league-of-legends.png');
+  width: 12em;
+  height: 13em;
+}
